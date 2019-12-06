@@ -1,9 +1,19 @@
 fileFormatVersion: 2
-guid: 9d89f51df5d4f6d458c4f464ce3ee5c9
+guid: 3f4d70a55b400ac42aa1f184df3bdbae
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - _textureApproxDist: {fileID: 8600000, guid: bf15305c6de543947a78e4664850cde0,
+      type: 2}
+  - _Ssed8ApproxDist: {fileID: 8600000, guid: e449c48187d4a1b49a2f49a5e3d23688, type: 2}
+  - _Ssed8ApproxDist5: {fileID: 8600000, guid: 90c46f905610dc8458da3fd281f2c5b3, type: 2}
+  - _Ssed8ApproxDist10: {fileID: 8600000, guid: 09b5fe25faee15e4d9b40a652ce97a4b,
+      type: 2}
+  - _Ssed8ApproxDist15: {fileID: 8600000, guid: 85ae89027f0dd0249977011b954c99d4,
+      type: 2}
+  - _Ssed8ApproxDist30: {fileID: 8600000, guid: 9e9cd5957e13ae2478867c6a09bed99d,
+      type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

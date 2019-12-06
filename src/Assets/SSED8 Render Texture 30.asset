@@ -6,7 +6,7 @@ CustomRenderTexture:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Sobel Render Texture
+  m_Name: SSED8 Render Texture 30
   m_ImageContentsHash:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
@@ -16,7 +16,7 @@ CustomRenderTexture:
   m_Height: 1024
   m_AntiAliasing: 1
   m_DepthFormat: 0
-  m_ColorFormat: 13
+  m_ColorFormat: 2
   m_MipMap: 0
   m_GenerateMips: 1
   m_SRGB: 0
@@ -32,10 +32,10 @@ CustomRenderTexture:
     m_WrapW: 1
   m_Dimension: 2
   m_VolumeDepth: 1
-  m_Material: {fileID: 2100000, guid: aed0fb13eb57380428e88d838dc0ff4d, type: 2}
+  m_Material: {fileID: 2100000, guid: ccf575da485e6bb48b39e11caeb40750, type: 2}
   m_InitSource: 0
   m_InitMaterial: {fileID: 0}
-  m_InitColor: {r: 1, g: 1, b: 1, a: 1}
+  m_InitColor: {r: 0, g: 0, b: 0, a: 0}
   m_InitTexture: {fileID: 0}
   m_UpdateMode: 2
   m_InitializationMode: 0
